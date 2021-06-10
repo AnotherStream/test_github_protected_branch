@@ -1,0 +1,2 @@
+# test_github_protected_branch
+GitHubのProtected branch機能をテストするためのリポジトリ
